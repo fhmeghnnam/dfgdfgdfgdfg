@@ -824,4 +824,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("env.BOT_TOKEN");  // توكن حقق
+client.login("process.env.BOT_TOKEN");  // توكن حقق
