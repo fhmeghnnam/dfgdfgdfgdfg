@@ -6,6 +6,7 @@
     "child_process": "^1.0.2",
     "common-tags": "^1.8.0",
     "dateformat": "^3.0.3",
+    "ascii-data-table": "^2.1.1",
     "discord-anti-spam": "^1.1.2",
     "discord.js": "^11.3.2",
     "ffmpeg-binaries": "^4.0.0",
