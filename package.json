@@ -19,6 +19,7 @@
     "moment": "^2.22.2",
     "queue": "^4.4.2",
     "rebuild": "^0.1.2",
+    "canvas": "^1.6.11",
     "request": "^2.88.0",
     "simple-youtube-api": "^5.0.2",
     "youtube-info": "^1.2.0",
