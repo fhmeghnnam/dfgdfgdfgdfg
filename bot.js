@@ -7,8 +7,7 @@ client.on('guildMemberAdd', mem => {
 
 setTimeout(function () {
         
-if(mem.guild.channels.get('551057668585029632').send("☘ ,,**__Welcome__ `To` Detrtmind Community  **
-"));
+if(mem.guild.channels.get('551057668585029632').send("☘ ,,**__Welcome__ `To` Detrtmind Community  **"));
 }, 3000);
 })
 
@@ -17,8 +16,10 @@ client.on('ready',async () => {
 
 
 
-    client.channels.find(ch => ch.id === "551057697907408896" && ch.type === 'voice').join();
+    client.channels.find(ch => ch.id === "551057699459170314" && ch.type === 'voice').join();
     clie
   });
 	
 	
+
+client.login(process.env.BOT_TOKEN);
