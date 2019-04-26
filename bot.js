@@ -7,7 +7,7 @@ client.on('guildMemberAdd', mem => {
 
 setTimeout(function () {
         
-if(mem.guild.channels.get('551057668585029632').send("☘ ,,**__Welcome__ `To` Detrtmind Community  **"));
+if(mem.guild.channels.get('551057668585029632').send(" **_Welcome To _ Determind' Server **🥂 "));
 }, 3000);
 })
 
