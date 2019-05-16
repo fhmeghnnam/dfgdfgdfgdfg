@@ -7,7 +7,7 @@ client.on('guildMemberAdd', mem => {
 
 setTimeout(function () {
         
-if(mem.guild.channels.get('572452695156457472').send(" **_Welcome To _ Atlants' Server **🥂 "));
+if(mem.guild.channels.get('572452695156457472').send(" **_Welcome To _ Ruby' Server **🥂 "));
 }, 5000);
 })
 
