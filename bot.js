@@ -9,7 +9,7 @@ client.on('ready',async () => {
 
 
 
-    client.channels.find(ch => ch.id === "582033515311529984" && ch.type === 'voice').join();
+    client.channels.find(ch => ch.id === "378652303881797632" && ch.type === 'voice').join();
     
   });
 	
