@@ -3,10 +3,10 @@ const client = new Discord.Client();
 const prefix = "!";
 const token = "Token Here";              //    Token Here
 //    Add emoji name
-var emojiname = ["":Yes:""];
+var emojiname = [":Yes:"];
 
 //    Add role name
-var rolename=[""Member""];
+var rolename=["Member"];
 
 
 client.on('ready', () => {
