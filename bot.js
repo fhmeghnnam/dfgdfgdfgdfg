@@ -3,10 +3,10 @@ const client = new Discord.Client();
 const prefix = "!";
 const token = "Token Here";              //    Token Here
 //    Add emoji name
-var emojiname = ["",""];
+var emojiname = ["":Yes:""];
 
 //    Add role name
-var rolename=["",""];
+var rolename=[""Member""];
 
 
 client.on('ready', () => {
@@ -55,4 +55,4 @@ client.on("messageReactionRemove",(reaction,user)=>{
   }
 });
 
-client.login("NjEyNjAzNjIxNDQ3Njk2NDA0.XVkxog.uRYjVFErsHbm92Y19uAPzYmYYFA");
+client.login("");
